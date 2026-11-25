@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/srnz-audio/.github/main/profile/srnz_logo_simple.png" width="120" alt="SRNZ Audio" />
+  <img src="https://raw.githubusercontent.com/srnz-audio/.github/main/profile/srnz_logo.png" width="120" alt="SRNZ Audio" />
   <h1>SRNZ Audio</h1>
   <p><strong>VST3 &amp; Standalone Audio Instruments, Effects, and Studio Tools</strong></p>
 </div>
